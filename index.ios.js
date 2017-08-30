@@ -1,3 +1,5 @@
+//react-native run-ios
+
 // Import a Library to help create a Component
 import React from 'react';
 import { AppRegistry } from 'react-native';
